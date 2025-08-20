@@ -37,6 +37,6 @@ We may update or revise these Terms of Use at any time. Continued use of our ser
 
 ---
 
-If you have any questions about these Terms, please contact us at: **contact@helyon.org**
+If you have any questions about these Terms, please contact us at: **info@helyon.org**
 
 © 2025 Helyon Project. All rights reserved.
