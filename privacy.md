@@ -38,7 +38,7 @@ Depending on your jurisdiction, you may have rights to:
 - Request corrections  
 - Request deletion  
 
-You can contact us for such requests at **privacy@helyon.org**.
+You can contact us for such requests at **info@helyon.org**.
 
 ## 7. Changes to This Policy
 We may update this Privacy Policy from time to time.  
